@@ -1,0 +1,18 @@
+body
+{
+    background-color:lightcoral;
+
+}
+
+input
+{
+border-radius: 7px;
+border-color: honeydew;
+
+}
+
+button
+{
+    background-color:aliceblue;
+    color:black;
+}
